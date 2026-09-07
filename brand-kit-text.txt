@@ -1,0 +1,404 @@
+Partner Deck
+Brand Kit
+with the new branding
+Ensuring Consistent Communication
+& Visual Identity Across All Teams
+Jun 2026
+
+-- 1 of 36 --
+
+This Brand Kit is designed to help CSMs and COM create partner presentation decks faster, easier, and in line
+with Insider’s brand standards.
+● Start with Ready-to-Use Templates
+○ Pick from pre-designed deck templates tailored for partner calls.
+○ Just duplicate and personalize for your specific partner.
+● Stay on Brand
+○ Use the official Insider colors, logos, and fonts.
+○ Ensure visual consistency across all presentations.
+● Enhance with Design Elements
+○ Add provided icons, shapes, and backgrounds to elevate your decks.
+○ Keep slides clean and professional by using only approved visuals.
+● Save Time, Stay Consistent
+○ No need to build from scratch — this toolkit simplifies your prep work.
+○ Helps maintain a unified visual language across the CS team.
+🎯 Toolkit Purpose
+
+-- 2 of 36 --
+
+● Branding Essentials |Logo Guideline, Color Pallette & Typeface
+● Latest Materials |Competitor Logos, Investor Logos, Client Logos | Global
+● Icons You Might Need |Product Icons & More, Flag Icons
+● Metrics |Global Offices, Team Members, Customers, Products
+● Architect Modules |PNG Library for Your Architect Journeys
+● Goal Boxes |Ready to Use Goal Boxes
+● Initial Set |Guideline, Local Presence & Global Scale, Agenda & More
+● Editable Mockup Set |Time-saving editable templates & Ready-made Templates
+● Use Case Library|Example GIFs of use cases
+● Onboarding Center
+● Mindbehind
+● Quick GIF Creator
+● Sales Branding Handbook
+Content Library
+
+-- 3 of 36 --
+
+How to Use Our
+Decks?
+
+-- 4 of 36 --
+
+How to Use Our Decks?
+
+-- 5 of 36 --
+
+Branding Essentials
+for more details > check here
+
+-- 6 of 36 --
+
+
+
+-- 7 of 36 --
+
+
+
+-- 8 of 36 --
+
+
+
+-- 9 of 36 --
+
+
+
+-- 10 of 36 --
+
+
+
+-- 11 of 36 --
+
+
+
+-- 12 of 36 --
+
+The Insider logo is a critical element of our brand identity. To maintain consistency and professionalism across your materials, please follow these
+guidelines when incorporating the Insider logo into your content.
+1. Use the Approved Logo in the Footage Below
+○ The Insider logo shown below represents the correct version for use in your presentations.
+○ Do not modify the logo in any way—avoid altering colors, proportions, or adding any effects (e.g., shadows, outlines).
+2. Copy and Paste for Consistency
+○ To ensure accuracy, copy and paste the logo directly from the footage below to your presentation slides.
+○ Refrain from re-creating, resizing disproportionately, or distorting the logo in any way. Use only the official version at its designated
+size and resolution.
+3. Logo Placement
+○ If a partner’s logo is included on the page, the Insider One logo should be placed on the left, and the partner’s logo on the right.
+○ If no partner logo is included, the Insider One logo should be placed on the right side of the page.
+4. Appropriate Backgrounds
+○ Ensure the logo remains clearly visible by placing it only on simple, clean backgrounds. Avoid using the logo on busy, textured, or
+complex backgrounds that may obscure or detract from it.
+By following these guidelines, you’ll help maintain a cohesive, professional look that strengthens our Insider's recognition and impact. Thank you for
+your attention to these details!
+Correct placement of the Logo. Copy this and paste it to your own slides.
+Logo Guideline | Light Background
+
+-- 13 of 36 --
+
+Correct placement of the Logo. Copy this and paste it to your own slides.
+Logo Guideline | Dark Background
+The Insider logo is a critical element of our brand identity. To maintain consistency and professionalism across your materials, please follow these
+guidelines when incorporating the Insider logo into your content.
+1. Use the Approved Logo in the Footage Below
+○ The Insider logo shown below represents the correct version for use in your presentations.
+○ Do not modify the logo in any way—avoid altering colors, proportions, or adding any effects (e.g., shadows, outlines).
+2. Copy and Paste for Consistency
+○ To ensure accuracy, copy and paste the logo directly from the footage below to your presentation slides.
+○ Refrain from re-creating, resizing disproportionately, or distorting the logo in any way. Use only the official version at its designated
+size and resolution.
+3. Logo Placement
+○ If a partner’s logo is included on the page, the Insider One logo should be placed on the left, and the partner’s logo on the right.
+○ If no partner logo is included, the Insider One logo should be placed on the right side of the page.
+4. Appropriate Backgrounds
+○ Ensure the logo remains clearly visible by placing it only on simple, clean backgrounds. Avoid using the logo on busy, textured, or
+complex backgrounds that may obscure or detract from it.
+By following these guidelines, you’ll help maintain a cohesive, professional look that strengthens our Insider's recognition and impact. Thank you for
+your attention to these details!
+
+-- 14 of 36 --
+
+Color Palette
+
+-- 15 of 36 --
+
+Eclipse
+Solid
+COLOR CODE
+HEX: 261A28
+Lunar
+Solid
+COLOR CODE
+HEX: D0C2C7
+Stardust
+Solid
+COLOR CODE
+HEX: CFEBDD
+Cosmic
+Solid
+COLOR CODE
+HEX: F0CABF
+Orbit
+Solid
+COLOR CODE
+HEX: 23423D
+Solar
+Solid
+COLOR CODE
+HEX: F4482B
+Dark Matter
+Solid
+COLOR CODE
+HEX: 18181B
+Nova
+Solid
+COLOR CODE
+HEX: EFEBE4
+Celestial
+Solid
+COLOR CODE
+HEX: 50E9C3
+Stratos
+Solid
+COLOR CODE
+HEX: 44221E
+
+-- 16 of 36 --
+
+Solar
+Gradient
+Eclipse
+Gradient
+Lunar
+Gradient	#E92E2F
+#FF6126
+#261A28
+#18181B
+#EFEBE4
+#D0C2C7
+
+-- 17 of 36 --
+
+Celestial
+Gradient
+Stratos
+Gradient	#2EDFE2
+#71F3A7
+#44221E
+#18181B
+Orbit
+Gradient 	#23423D
+#18181B
+Cosmic
+Gradient 	#EFEBE4
+#F0CABF
+Stardust
+Gradient 	#EFEBE4
+#CFEBDD
+
+-- 18 of 36 --
+
+Official Display Font
+Red Hat Display
+Regular
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz
+1 2 3 4 5 6 7 8 9 0
+Used for headlines and key visuals elements
+Red Hat Display
+Medium
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz
+1 2 3 4 5 6 7 8 9 0
+Red Hat Display
+Bold
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss
+Tt Uu Vv Ww Xx Yy Zz
+1 2 3 4 5 6 7 8 9 0
+[Download Red Hat Display]
+
+-- 19 of 36 --
+
+Official Body Font
+Figtree Regular
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz
+1 2 3 4 5 6 7 8 9 0
+Used for paragraphs, documentation, and long-form text.
+Figtree Medium
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz
+1 2 3 4 5 6 7 8 9 0
+Figtree Bold
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss
+Tt Uu Vv Ww Xx Yy Zz
+1 2 3 4 5 6 7 8 9 0
+[Download Figtree]
+
+-- 20 of 36 --
+
+Shapes
+
+-- 21 of 36 --
+
+Avatars
+
+-- 22 of 36 --
+
+Latest Logos
+
+-- 23 of 36 --
+
+Investor Logos
+
+-- 24 of 36 --
+
+Insider Powers Top Global Brands
+1500+ Top Global Brands
+
+-- 25 of 36 --
+
+Technology choice of
+<vertical> brands
+Personalized logos
+should be implemented
+
+-- 26 of 36 --
+
+Local clients,
+Local support
+Personalized logos
+should be implemented
+
+-- 27 of 36 --
+
+Client Logos | Global
+
+-- 28 of 36 --
+
+Competitor Logos
+
+-- 29 of 36 --
+
+
+
+-- 30 of 36 --
+
+Web
+A/B Testing
+Email
+RCS
+App
+Gamification
+SMS
+WhatsApp
+Smart
+Recommender
+Search &
+Merch
+MMS
+Push
+Notification
+Campaign
+Analytics
+Behavioral
+Analytics
+TikTok
+Conversational
+AI
+
+-- 31 of 36 --
+
+
+
+-- 32 of 36 --
+
+Starter Elements 	Wait Elements 	Channel Elements 	Action Elements
+
+-- 33 of 36 --
+
+Check Elements 	A/B Split 	Next Best Channel 	Other Elements
+Matching
+Not Matching
+Additional Text Here
+Additional Text Here
+2 Segments - 3 Rules
+Lorem Ipsum: Segment Box
+
+-- 34 of 36 --
+
+2 Segments - 3 Rules
+*use this text for personalized
+conditions & add it to your box
+Additional Text Here
+Example 	2 Minutes
+Matching 	Not Matching
+Sign-up not
+completed?
+Example Usage | How to Use in Your Journeys
+Example
+
+-- 35 of 36 --
+
+Example
+Segment Boxes
+Goal 1
+Goal 2
+Goal 3
+Goals
+Rules & Design
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit. In commodo varius quam ac varius. Ut in varius
+arcu. Donec mattis mi vel neque bibendum
+elementum.
+Segment
+Lorem Ipsum: Segment 1
+Lorem Ipsum: Segment 2
+Lorem Ipsum: Segment 3
+Target Audience
+16K
+Estimated Audience
+*this is editable!
+set your estimated audience
+Segment
+Lorem Ipsum: Segment 1
+Lorem Ipsum: Segment 2
+Goals
+Goal 1
+Goal 2
+Segment
+Lorem Ipsum: Segment 1
+Lorem Ipsum: Segment 2
+Lorem Ipsum: Segment 3
+Goals
+Goal 1
+Goal 2
+Goal 3
+Segment
+Lorem Ipsum: Segment 1
+Lorem Ipsum: Segment 2
+Lorem Ipsum: Segment 3
+Lorem Ipsum: Segment 4
+Goals
+Goal 1
+Goal 2
+Goal 3
+Goal 4
+Option 1
+Option 2
+Option 3
+
+-- 36 of 36 --
+
