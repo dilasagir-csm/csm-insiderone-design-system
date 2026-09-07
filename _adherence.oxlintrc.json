@@ -1,0 +1,292 @@
+{
+  "plugins": [
+    "react",
+    "import"
+  ],
+  "rules": {
+    "react/forbid-elements": [
+      "warn",
+      {
+        "forbid": []
+      }
+    ],
+    "no-restricted-imports": [
+      "warn",
+      {
+        "patterns": [
+          {
+            "group": [
+              "components/brand/**",
+              "components/journey/**",
+              "components/metrics/**"
+            ],
+            "message": "Import design-system components from 'index.js', not component internals."
+          }
+        ]
+      }
+    ],
+    "no-restricted-syntax": [
+      "warn",
+      {
+        "selector": "Literal[value=/#[0-9a-fA-F]{3,8}\\b/]",
+        "message": "Raw hex color — use a design-system color token via var()."
+      },
+      {
+        "selector": "Literal[value=/\\b\\d+px\\b/]",
+        "message": "Raw px value — use a design-system spacing token via var()."
+      },
+      {
+        "selector": "Literal[value=/font-family\\s*:\\s*(?!['\\\"]?(?:Red Hat Display|Figtree))/i]",
+        "message": "Font not provided by the design system. Available: Red Hat Display, Figtree."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='ChannelChip'] > JSXAttribute > JSXIdentifier[name!=/^(?:channel|label|key|ref|className|style|children)$/]",
+        "message": "<ChannelChip> doesn't accept that prop. Declared props: channel, label."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='GoalBox'] > JSXAttribute > JSXIdentifier[name!=/^(?:goals|key|ref|className|style|children)$/]",
+        "message": "<GoalBox> doesn't accept that prop. Declared props: goals."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='JourneyNode'] > JSXAttribute > JSXIdentifier[name!=/^(?:type|label|key|ref|className|style|children)$/]",
+        "message": "<JourneyNode> doesn't accept that prop. Declared props: type, label."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='JourneyNode'] > JSXAttribute[name.name='type'] > Literal[value!=/^(?:starter|wait|channel|action|check)$/]",
+        "message": "<JourneyNode> type must be one of 'starter' | 'wait' | 'channel' | 'action' | 'check'."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='LogoLockup'] > JSXAttribute > JSXIdentifier[name!=/^(?:variant|logoHeight|key|ref|className|style|children)$/]",
+        "message": "<LogoLockup> doesn't accept that prop. Declared props: variant, logoHeight."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='LogoLockup'] > JSXAttribute[name.name='variant'] > Literal[value!=/^(?:light|dark)$/]",
+        "message": "<LogoLockup> variant must be one of 'light' | 'dark'."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='MetricStat'] > JSXAttribute > JSXIdentifier[name!=/^(?:value|label|tone|key|ref|className|style|children)$/]",
+        "message": "<MetricStat> doesn't accept that prop. Declared props: value, label, tone."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='MetricStat'] > JSXAttribute[name.name='tone'] > Literal[value!=/^(?:light|dark)$/]",
+        "message": "<MetricStat> tone must be one of 'light' | 'dark'."
+      },
+      {
+        "selector": "JSXOpeningElement[name.name='SegmentBox'] > JSXAttribute > JSXIdentifier[name!=/^(?:segments|audience|key|ref|className|style|children)$/]",
+        "message": "<SegmentBox> doesn't accept that prop. Declared props: segments, audience."
+      }
+    ]
+  },
+  "overrides": [
+    {
+      "files": [
+        "**/index.js"
+      ],
+      "rules": {
+        "no-restricted-imports": "off"
+      }
+    }
+  ],
+  "x-omelette": {
+    "components": {
+      "ChannelChip": {
+        "replaces": []
+      },
+      "GoalBox": {
+        "replaces": []
+      },
+      "JourneyNode": {
+        "replaces": []
+      },
+      "LogoLockup": {
+        "replaces": []
+      },
+      "MetricStat": {
+        "replaces": []
+      },
+      "SegmentBox": {
+        "replaces": []
+      }
+    },
+    "tokens": [
+      "--accent-primary",
+      "--accent-primary-active",
+      "--accent-primary-hover",
+      "--accent-secondary",
+      "--border-default",
+      "--border-strong",
+      "--border-subtle",
+      "--color-celestial",
+      "--color-cosmic",
+      "--color-dark-matter",
+      "--color-eclipse",
+      "--color-lunar",
+      "--color-nova",
+      "--color-orbit",
+      "--color-solar",
+      "--color-stardust",
+      "--color-stratos",
+      "--danger",
+      "--danger-bg",
+      "--duration-base",
+      "--duration-fast",
+      "--duration-slow",
+      "--ease-out",
+      "--ease-standard",
+      "--focus-ring",
+      "--font-body",
+      "--font-display",
+      "--font-mono",
+      "--gradient-celestial",
+      "--gradient-cosmic",
+      "--gradient-eclipse",
+      "--gradient-lunar",
+      "--gradient-orbit",
+      "--gradient-solar",
+      "--gradient-stardust",
+      "--gradient-stratos",
+      "--radius-lg",
+      "--radius-md",
+      "--radius-pill",
+      "--radius-sm",
+      "--radius-xl",
+      "--shadow-focus",
+      "--shadow-lg",
+      "--shadow-md",
+      "--shadow-sm",
+      "--space-1",
+      "--space-10",
+      "--space-12",
+      "--space-16",
+      "--space-2",
+      "--space-20",
+      "--space-24",
+      "--space-3",
+      "--space-4",
+      "--space-5",
+      "--space-6",
+      "--space-8",
+      "--success",
+      "--success-bg",
+      "--surface-card",
+      "--surface-inverse",
+      "--surface-inverse-alt",
+      "--surface-page",
+      "--surface-sunken",
+      "--text-body-lg",
+      "--text-body-md",
+      "--text-body-sm",
+      "--text-body-xs",
+      "--text-caption",
+      "--text-display-lg",
+      "--text-display-md",
+      "--text-display-sm",
+      "--text-display-xl",
+      "--text-display-xs",
+      "--text-inverse",
+      "--text-label",
+      "--text-muted",
+      "--text-on-accent",
+      "--text-primary",
+      "--text-secondary",
+      "--tracking-caps",
+      "--tracking-normal",
+      "--tracking-tight",
+      "--tracking-wide",
+      "--warning",
+      "--warning-bg"
+    ],
+    "tokenKinds": {
+      "--color-eclipse": "color",
+      "--color-dark-matter": "color",
+      "--color-stratos": "color",
+      "--color-orbit": "color",
+      "--color-nova": "color",
+      "--color-lunar": "color",
+      "--color-stardust": "color",
+      "--color-cosmic": "color",
+      "--color-solar": "color",
+      "--color-celestial": "color",
+      "--gradient-solar": "color",
+      "--gradient-eclipse": "color",
+      "--gradient-lunar": "color",
+      "--gradient-celestial": "color",
+      "--gradient-stratos": "color",
+      "--gradient-orbit": "color",
+      "--gradient-cosmic": "color",
+      "--gradient-stardust": "color",
+      "--surface-page": "color",
+      "--surface-card": "color",
+      "--surface-sunken": "color",
+      "--surface-inverse": "color",
+      "--surface-inverse-alt": "color",
+      "--text-primary": "font",
+      "--text-secondary": "font",
+      "--text-muted": "font",
+      "--text-inverse": "font",
+      "--text-on-accent": "font",
+      "--accent-primary": "color",
+      "--accent-primary-hover": "color",
+      "--accent-primary-active": "color",
+      "--accent-secondary": "color",
+      "--border-subtle": "color",
+      "--border-default": "color",
+      "--border-strong": "color",
+      "--success": "color",
+      "--success-bg": "color",
+      "--warning": "color",
+      "--warning-bg": "color",
+      "--danger": "color",
+      "--danger-bg": "color",
+      "--focus-ring": "color",
+      "--font-display": "font",
+      "--font-body": "font",
+      "--font-mono": "font",
+      "--text-display-xl": "font",
+      "--text-display-lg": "font",
+      "--text-display-md": "font",
+      "--text-display-sm": "font",
+      "--text-display-xs": "font",
+      "--text-body-lg": "font",
+      "--text-body-md": "font",
+      "--text-body-sm": "font",
+      "--text-body-xs": "font",
+      "--text-label": "font",
+      "--text-caption": "font",
+      "--tracking-tight": "font",
+      "--tracking-normal": "font",
+      "--tracking-wide": "font",
+      "--tracking-caps": "font",
+      "--space-1": "spacing",
+      "--space-2": "spacing",
+      "--space-3": "spacing",
+      "--space-4": "spacing",
+      "--space-5": "spacing",
+      "--space-6": "spacing",
+      "--space-8": "spacing",
+      "--space-10": "spacing",
+      "--space-12": "spacing",
+      "--space-16": "spacing",
+      "--space-20": "spacing",
+      "--space-24": "spacing",
+      "--radius-sm": "radius",
+      "--radius-md": "radius",
+      "--radius-lg": "radius",
+      "--radius-xl": "radius",
+      "--radius-pill": "radius",
+      "--shadow-sm": "shadow",
+      "--shadow-md": "shadow",
+      "--shadow-lg": "shadow",
+      "--shadow-focus": "shadow",
+      "--ease-standard": "other",
+      "--ease-out": "other",
+      "--duration-fast": "other",
+      "--duration-base": "other",
+      "--duration-slow": "other"
+    },
+    "fontFamilies": [
+      "Figtree",
+      "Red Hat Display"
+    ]
+  }
+}
