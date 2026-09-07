@@ -1,0 +1,60 @@
+/* Insider One — color tokens
+   Base palette named per the Partner Deck Brand Kit ("Eclipse", "Solar", …),
+   plus semantic aliases used throughout components and layouts. */
+
+:root {
+  /* ---- Base palette (brand kit names) ---- */
+  --color-eclipse: #261A28;     /* deep plum-black */
+  --color-dark-matter: #18181B; /* near-black */
+  --color-stratos: #44221E;     /* dark maroon-brown */
+  --color-orbit: #23423D;       /* dark forest green */
+
+  --color-nova: #EFEBE4;        /* warm cream — primary light surface */
+  --color-lunar: #D0C2C7;       /* dusty mauve-gray */
+  --color-stardust: #CFEBDD;    /* pale mint */
+  --color-cosmic: #F0CABF;      /* pale peach */
+
+  --color-solar: #F4482B;       /* red-orange — primary brand accent */
+  --color-celestial: #50E9C3;   /* mint/teal accent */
+
+  /* ---- Brand gradients ---- */
+  --gradient-solar: linear-gradient(160deg, #E92E2F 0%, #FF6126 100%); /* @kind color */
+  --gradient-eclipse: linear-gradient(160deg, #261A28 0%, #18181B 100%); /* @kind color */
+  --gradient-lunar: linear-gradient(160deg, #EFEBE4 0%, #D0C2C7 100%); /* @kind color */
+  --gradient-celestial: linear-gradient(160deg, #2EDFE2 0%, #71F3A7 100%); /* @kind color */
+  --gradient-stratos: linear-gradient(160deg, #44221E 0%, #18181B 100%); /* @kind color */
+  --gradient-orbit: linear-gradient(160deg, #23423D 0%, #18181B 100%); /* @kind color */
+  --gradient-cosmic: linear-gradient(160deg, #EFEBE4 0%, #F0CABF 100%); /* @kind color */
+  --gradient-stardust: linear-gradient(160deg, #EFEBE4 0%, #CFEBDD 100%); /* @kind color */
+
+  /* ---- Semantic aliases ---- */
+  --surface-page: var(--color-nova);
+  --surface-card: #FFFFFF;
+  --surface-sunken: #E4DFD5;
+  --surface-inverse: var(--color-dark-matter);
+  --surface-inverse-alt: var(--color-eclipse);
+
+  --text-primary: var(--color-dark-matter);
+  --text-secondary: #5B5751;
+  --text-muted: #8A857C;
+  --text-inverse: var(--color-nova);
+  --text-on-accent: #FFFFFF;
+
+  --accent-primary: var(--color-solar);
+  --accent-primary-hover: #D93A20;
+  --accent-primary-active: #C13319;
+  --accent-secondary: var(--color-celestial);
+
+  --border-subtle: #E1DACD;
+  --border-default: #D0C2C7;
+  --border-strong: var(--color-dark-matter);
+
+  --success: var(--color-orbit);
+  --success-bg: var(--color-stardust);
+  --warning: #B8752B;
+  --warning-bg: var(--color-cosmic);
+  --danger: var(--color-solar);
+  --danger-bg: #FBE1DB;
+
+  --focus-ring: var(--color-solar);
+}

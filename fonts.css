@@ -1,0 +1,17 @@
+/* Insider One — brand webfonts, self-hosted from Google Fonts source files */
+
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 400 700; /* variable font — supports the whole weight range */
+  font-display: swap;
+  src: url('../assets/fonts/RedHatDisplay-Variable.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 400 700; /* variable font — supports the whole weight range */
+  font-display: swap;
+  src: url('../assets/fonts/Figtree-Variable.woff2') format('woff2');
+}
